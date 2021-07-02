@@ -130,3 +130,12 @@ p {
 .footer h4 {
     font-size: 20px;
 }
+
+/*MEDIA QUERY FOR SCREEN LARGER THAN MOBILE PHONE*/
+@media screen and (min-width: 575px) {
+    }
+
+/*MEDIA QUERY FOR SCREEN LARGER THAN TABLET*/
+
+@media screen and (min-width: 768px) {
+    }
